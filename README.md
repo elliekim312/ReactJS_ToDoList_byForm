@@ -8,4 +8,9 @@ In the project directory, you can run:
 
 ### `npm start`
 
-This application is my first React Js practice.
+This application is a my first ReactJs project.
+
+It contains
+- Create to do list
+- Check a done item
+- Delete a item
