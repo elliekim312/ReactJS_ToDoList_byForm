@@ -8,9 +8,9 @@ In the project directory, you can run:
 
 ### `npm start`
 
-This application is a my first ReactJs project.
+This application is a my first ReactJs project in December 2019.
 
 It contains
 - Create to do list
 - Check a done item
-- Delete a item
+- Delete an item
